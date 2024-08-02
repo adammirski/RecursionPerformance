@@ -109,24 +109,3 @@ print(f"2 to the power of 3: {power(2, 3)}")  # Output: 8
 print(f"Binary search for 3 in [1, 2, 3, 4, 5]: {binary_search([1, 2, 3, 4, 5], 3, 0, 4)}")  # Output: 2
 ```
 
-## Contributing
-
-Contributions are welcome! If you'd like to improve or expand this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeature`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/YourFeature`.
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions, suggestions, or issues, please feel free to contact me:
-
-- **Name**: Adam
-- **Email**: [adam@example.com](mailto:adam@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
