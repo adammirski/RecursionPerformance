@@ -1,5 +1,5 @@
 
-# Recursion Functions
+# Recursion Performance
 
 This repository contains a Python script that implements various recursive functions to perform common mathematical and algorithmic tasks. The functions include calculations for factorials, Fibonacci numbers, the greatest common divisor (GCD), list summation, palindrome checks, power calculations, and binary search operations.
 
