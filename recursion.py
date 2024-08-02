@@ -115,36 +115,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-Code Explanation
-
-Here’s a brief explanation of each section of the code:
-
-	1.	Header Comments:
-
-	2.	Factorial Function:
-	•	Purpose: Calculates the factorial of a given number  n .
-	•	Base Case: If  n  is 0 or 1, return 1.
-	•	Recursive Case: Multiply  n  by the factorial of  n-1 .
-	3.	Fibonacci Function:
-	•	Purpose: Calculates the  n -th Fibonacci number.
-	•	Base Cases: Return 0 if  n  is 0 and 1 if  n  is 1.
-	•	Recursive Case: Sum the two preceding Fibonacci numbers.
-	4.	GCD Function:
-	•	Purpose: Calculates the greatest common divisor of two numbers  a  and  b  using the Euclidean algorithm.
-	•	Base Case: If  b  is 0, return  a .
-	•	Recursive Case: Call gcd with  b  and the remainder of  a  divided by  b .
-	5.	Power Function:
-	•	Purpose: Calculates  x  raised to the power  n .
-	•	Base Case: If  n  is 0, return 1.
-	•	Recursive Case: If  n  is negative, return the reciprocal of the positive power. Otherwise, multiply  x  by the power of  x, n-1 .
-	6.	Palindrome Check Function:
-	•	Purpose: Determines if a given string  s  is a palindrome.
-	•	Preprocessing: Filters out non-alphanumeric characters and converts the string to lowercase.
-	•	Base Case: A string with less than two characters is a palindrome.
-	•	Recursive Case: Compare the first and last characters, then recurse on the substring.
-	7.	Binary Search Function:
-	•	Purpose: Performs a binary search on a sorted array to find the target element.
-	•	Base Case: If the lower index is greater than the upper index, the target is not in the array.
-	•	Recursive Case: Calculate the middle index and compare the target with the middle element, then recurse into the appropriate half of the array.
-"""
