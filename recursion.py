@@ -1,5 +1,5 @@
 # recursion.py
-# Author: Adam
+# Author: Adam Mirski
 # Date: August 2, 2024
 
 """
